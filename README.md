@@ -1,2 +1,2 @@
 # johnprojecta
-This is my first Repository.
+It is my first Repository.
